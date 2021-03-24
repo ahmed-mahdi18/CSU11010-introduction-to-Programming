@@ -5,7 +5,7 @@ Status: Still in progress
 
 Grade: First Class Honours
 
-these are the assignments i did in first year. Please avoid copying any of this work, you are only cheating yourself and won't learn anything by not completing the assignments on your own.
+these are the assignments i did in first year. Please avoid copying any of this work,you won't learn anything bif you do not complete these assigments by yourself.
 
 thank you,
 
