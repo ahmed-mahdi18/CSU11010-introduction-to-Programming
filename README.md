@@ -5,8 +5,4 @@ Status: finished
 
 Grade: First Class Honours
 
-these are the assignments i did in first year. Please avoid copying any of this work,you won't learn anything if you do not complete these assigments by yourself.
-
-thank you,
-
-ahmed mahdi
+these are the assignments i did in first year. 
